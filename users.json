@@ -18,14 +18,15 @@
     "username": "Reexzzy",
     "firstName": "Rexzzy",
     "lastName": null,
-    "item": "Admin Panel",
-    "productType": "admin",
-    "nominal": 2000,
-    "orderId": "rexzzy-4AN82QX3WF",
+    "item": "Reseller Panel",
+    "productType": "reseller",
+    "nominal": 1000,
+    "orderId": "rexzzy-IBREBW252L",
     "metode": "QRIS",
     "status": "Success",
-    "tanggal": "2026-10-16T07:02:31.948Z",
-    "createdAt": "2026-10-16T07:02:32.632Z"
+    "tanggal": "2026-10-16T13:31:15.722Z",
+    "createdAt": "2026-10-16T07:02:32.632Z",
+    "updatedAt": "2026-10-16T13:31:16.431Z"
   },
   {
     "userId": "7770273914",
