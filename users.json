@@ -131,13 +131,14 @@
     "username": "kawaiii_kaicooo_protonme",
     "firstName": "winterr_",
     "lastName": null,
-    "item": "Admin Panel",
-    "productType": "admin",
-    "nominal": 2000,
-    "orderId": "rexzzy-9LSPS0U4MS",
+    "item": "Owner Panel",
+    "productType": "owner",
+    "nominal": 4000,
+    "orderId": "rexzzy-S4TVWKVIEH",
     "metode": "QRIS",
     "status": "Success",
-    "tanggal": "2026-10-20T09:27:19.761Z",
-    "createdAt": "2026-10-20T09:27:21.156Z"
+    "tanggal": "2026-10-20T10:56:23.345Z",
+    "createdAt": "2026-10-20T09:27:21.156Z",
+    "updatedAt": "2026-10-20T10:56:24.117Z"
   }
 ]
