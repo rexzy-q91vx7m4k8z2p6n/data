@@ -216,14 +216,15 @@
     "username": "NizamOfficiaI",
     "firstName": "Zamzzz",
     "lastName": "𝑹𝒆𝒅𝑿𝒙",
-    "item": "Reseller Panel",
-    "productType": "reseller",
-    "nominal": 1000,
-    "orderId": "rexzzy-9140TJHRLE",
+    "item": "Owner Panel",
+    "productType": "owner",
+    "nominal": 4000,
+    "orderId": "rexzzy-SDSPZ5HE9G",
     "metode": "QRIS",
     "status": "Success",
-    "tanggal": "2026-10-24T07:06:34.397Z",
-    "createdAt": "2026-10-24T07:06:35.087Z"
+    "tanggal": "2026-11-01T11:40:47.582Z",
+    "createdAt": "2026-10-24T07:06:35.087Z",
+    "updatedAt": "2026-11-01T11:40:48.361Z"
   },
   {
     "userId": "1436884281",
